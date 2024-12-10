@@ -45,12 +45,6 @@ A Library Management System  allows you to keep the Library book records, Librar
     <b><a href="#">↥ back to top</a></b>
 </div>
 
-### Important JAR links:
-
-- [Download all Required JAR files](https://t.me/eagle_programming/13)
-
-
-
 
 ## Project Demo:
 
